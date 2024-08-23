@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sganumpally
 - 👀 I’m interested in computer science and mathematics
-- 🌱 I’m currently a freshman at Georgia Tech studying Computer Science
+- 🌱 I’m currently at Georgia Tech studying Computer Science
 - 💞️ I’m looking to collaborate on any software or mathematical projects or internships
 - 📫 How to reach me: email sganumpally6@gatech.edu
 
